@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YourMeal/static/css/main.bf1edcac.css",
+    "main.js": "/YourMeal/static/js/main.d39788e4.js",
+    "index.html": "/YourMeal/index.html",
+    "main.bf1edcac.css.map": "/YourMeal/static/css/main.bf1edcac.css.map",
+    "main.d39788e4.js.map": "/YourMeal/static/js/main.d39788e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1edcac.css",
+    "static/js/main.d39788e4.js"
+  ]
+}
